@@ -84,7 +84,7 @@
             "showMeta": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "42",
             "paddingTop": "4",
             "paddingBottom": "3",
